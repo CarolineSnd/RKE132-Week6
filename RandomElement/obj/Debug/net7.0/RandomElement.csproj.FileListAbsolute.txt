@@ -1,0 +1,15 @@
+/Users/carolinesund/Projects/Week6StringsAndArrays/RandomElement/bin/Debug/net7.0/RandomElement
+/Users/carolinesund/Projects/Week6StringsAndArrays/RandomElement/bin/Debug/net7.0/RandomElement.deps.json
+/Users/carolinesund/Projects/Week6StringsAndArrays/RandomElement/bin/Debug/net7.0/RandomElement.runtimeconfig.json
+/Users/carolinesund/Projects/Week6StringsAndArrays/RandomElement/bin/Debug/net7.0/RandomElement.dll
+/Users/carolinesund/Projects/Week6StringsAndArrays/RandomElement/bin/Debug/net7.0/RandomElement.pdb
+/Users/carolinesund/Projects/Week6StringsAndArrays/RandomElement/obj/Debug/net7.0/RandomElement.csproj.AssemblyReference.cache
+/Users/carolinesund/Projects/Week6StringsAndArrays/RandomElement/obj/Debug/net7.0/RandomElement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carolinesund/Projects/Week6StringsAndArrays/RandomElement/obj/Debug/net7.0/RandomElement.AssemblyInfoInputs.cache
+/Users/carolinesund/Projects/Week6StringsAndArrays/RandomElement/obj/Debug/net7.0/RandomElement.AssemblyInfo.cs
+/Users/carolinesund/Projects/Week6StringsAndArrays/RandomElement/obj/Debug/net7.0/RandomElement.csproj.CoreCompileInputs.cache
+/Users/carolinesund/Projects/Week6StringsAndArrays/RandomElement/obj/Debug/net7.0/RandomElement.dll
+/Users/carolinesund/Projects/Week6StringsAndArrays/RandomElement/obj/Debug/net7.0/refint/RandomElement.dll
+/Users/carolinesund/Projects/Week6StringsAndArrays/RandomElement/obj/Debug/net7.0/RandomElement.pdb
+/Users/carolinesund/Projects/Week6StringsAndArrays/RandomElement/obj/Debug/net7.0/RandomElement.genruntimeconfig.cache
+/Users/carolinesund/Projects/Week6StringsAndArrays/RandomElement/obj/Debug/net7.0/ref/RandomElement.dll

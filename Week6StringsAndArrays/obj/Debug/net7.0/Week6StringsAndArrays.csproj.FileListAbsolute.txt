@@ -1,0 +1,15 @@
+/Users/carolinesund/Projects/Week6StringsAndArrays/Week6StringsAndArrays/bin/Debug/net7.0/Week6StringsAndArrays
+/Users/carolinesund/Projects/Week6StringsAndArrays/Week6StringsAndArrays/bin/Debug/net7.0/Week6StringsAndArrays.deps.json
+/Users/carolinesund/Projects/Week6StringsAndArrays/Week6StringsAndArrays/bin/Debug/net7.0/Week6StringsAndArrays.runtimeconfig.json
+/Users/carolinesund/Projects/Week6StringsAndArrays/Week6StringsAndArrays/bin/Debug/net7.0/Week6StringsAndArrays.dll
+/Users/carolinesund/Projects/Week6StringsAndArrays/Week6StringsAndArrays/bin/Debug/net7.0/Week6StringsAndArrays.pdb
+/Users/carolinesund/Projects/Week6StringsAndArrays/Week6StringsAndArrays/obj/Debug/net7.0/Week6StringsAndArrays.csproj.AssemblyReference.cache
+/Users/carolinesund/Projects/Week6StringsAndArrays/Week6StringsAndArrays/obj/Debug/net7.0/Week6StringsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carolinesund/Projects/Week6StringsAndArrays/Week6StringsAndArrays/obj/Debug/net7.0/Week6StringsAndArrays.AssemblyInfoInputs.cache
+/Users/carolinesund/Projects/Week6StringsAndArrays/Week6StringsAndArrays/obj/Debug/net7.0/Week6StringsAndArrays.AssemblyInfo.cs
+/Users/carolinesund/Projects/Week6StringsAndArrays/Week6StringsAndArrays/obj/Debug/net7.0/Week6StringsAndArrays.csproj.CoreCompileInputs.cache
+/Users/carolinesund/Projects/Week6StringsAndArrays/Week6StringsAndArrays/obj/Debug/net7.0/Week6StringsAndArrays.dll
+/Users/carolinesund/Projects/Week6StringsAndArrays/Week6StringsAndArrays/obj/Debug/net7.0/refint/Week6StringsAndArrays.dll
+/Users/carolinesund/Projects/Week6StringsAndArrays/Week6StringsAndArrays/obj/Debug/net7.0/Week6StringsAndArrays.pdb
+/Users/carolinesund/Projects/Week6StringsAndArrays/Week6StringsAndArrays/obj/Debug/net7.0/Week6StringsAndArrays.genruntimeconfig.cache
+/Users/carolinesund/Projects/Week6StringsAndArrays/Week6StringsAndArrays/obj/Debug/net7.0/ref/Week6StringsAndArrays.dll

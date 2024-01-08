@@ -1,0 +1,15 @@
+/Users/carolinesund/Projects/Week6StringsAndArrays/NumberArrays/bin/Debug/net7.0/NumberArrays
+/Users/carolinesund/Projects/Week6StringsAndArrays/NumberArrays/bin/Debug/net7.0/NumberArrays.deps.json
+/Users/carolinesund/Projects/Week6StringsAndArrays/NumberArrays/bin/Debug/net7.0/NumberArrays.runtimeconfig.json
+/Users/carolinesund/Projects/Week6StringsAndArrays/NumberArrays/bin/Debug/net7.0/NumberArrays.dll
+/Users/carolinesund/Projects/Week6StringsAndArrays/NumberArrays/bin/Debug/net7.0/NumberArrays.pdb
+/Users/carolinesund/Projects/Week6StringsAndArrays/NumberArrays/obj/Debug/net7.0/NumberArrays.csproj.AssemblyReference.cache
+/Users/carolinesund/Projects/Week6StringsAndArrays/NumberArrays/obj/Debug/net7.0/NumberArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carolinesund/Projects/Week6StringsAndArrays/NumberArrays/obj/Debug/net7.0/NumberArrays.AssemblyInfoInputs.cache
+/Users/carolinesund/Projects/Week6StringsAndArrays/NumberArrays/obj/Debug/net7.0/NumberArrays.AssemblyInfo.cs
+/Users/carolinesund/Projects/Week6StringsAndArrays/NumberArrays/obj/Debug/net7.0/NumberArrays.csproj.CoreCompileInputs.cache
+/Users/carolinesund/Projects/Week6StringsAndArrays/NumberArrays/obj/Debug/net7.0/NumberArrays.dll
+/Users/carolinesund/Projects/Week6StringsAndArrays/NumberArrays/obj/Debug/net7.0/refint/NumberArrays.dll
+/Users/carolinesund/Projects/Week6StringsAndArrays/NumberArrays/obj/Debug/net7.0/NumberArrays.pdb
+/Users/carolinesund/Projects/Week6StringsAndArrays/NumberArrays/obj/Debug/net7.0/NumberArrays.genruntimeconfig.cache
+/Users/carolinesund/Projects/Week6StringsAndArrays/NumberArrays/obj/Debug/net7.0/ref/NumberArrays.dll
